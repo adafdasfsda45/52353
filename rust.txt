@@ -1,0 +1,7 @@
+[+] Added Global Optimization
+[+] Added New Menu
+[+] Added New Loader
+[/] Fixed Ballistics and Prediction on 2K and Lower Resolutions
+[/] Fixed Show Off-Screen Arrows
+[/] Fixed ESP lag/spread issue
+[/] Fixed Magnetic Bullet
