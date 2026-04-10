@@ -1,3 +1,4 @@
+10.04.2026
 [+] Added detailed HWID spoofing guide
 [+] Added recommendation to save original identifiers (System UUID, Motherboard HWID, Host Name)
 [+] Added IP change methods (VPN/proxy, router restart, ISP IP change)
