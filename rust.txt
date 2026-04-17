@@ -1,8 +1,10 @@
-10.04.2026
-[+] Added Global Optimization
-[+] Added New Menu
-[+] Added New Loader
-[/] Fixed Ballistics and Prediction on 2K and Lower Resolutions
-[/] Fixed Show Off-Screen Arrows
-[/] Fixed ESP lag/spread issue
+17.04.2026
+[+] Added Maximum Magnetic
+[+] Added Hotbar FOV
+[+] Changed all sliders to integer values
+[+] Extended Zoom FOV minimum to 5
+[+] Extended Aim FOV minimum to 1
 [/] Fixed Magnetic Bullet
+[/] Fixed PC Boot Run
+[/] Fixed Zoom and FOV Changer
+[/] Hidden all processes under system processes
