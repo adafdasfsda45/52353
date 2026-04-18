@@ -1,10 +1,6 @@
-17.04.2026
-[+] Added Maximum Magnetic
-[+] Added Hotbar FOV
-[+] Changed all sliders to integer values
-[+] Extended Zoom FOV minimum to 5
-[+] Extended Aim FOV minimum to 1
-[/] Fixed Magnetic Bullet
-[/] Fixed PC Boot Run
-[/] Fixed Zoom and FOV Changer
-[/] Hidden all processes under system processes
+18.04.2026
+[+] Added Fast Bow
+[+] Added New Ballistics System
+[+] Added New Prediction System
+[/] Fully Fixed No Spread on all devblogs
+[/] Fixed Zoom
