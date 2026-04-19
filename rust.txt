@@ -4,3 +4,6 @@
 [+] Increased Prefab ESP Range to 5000m Max
 [/] Fixed Infinite Jump
 [/] Fixed Weapon Mods Unload
+[+] Added Minicopter Prediction
+[+] Added Dynamic Legit Aim by Movement
+[/] Fixed Shoot While Mounted
