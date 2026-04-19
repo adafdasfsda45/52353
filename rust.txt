@@ -1,6 +1,6 @@
-18.04.2026
-[+] Added Fast Bow
-[+] Added New Ballistics System
-[+] Added New Prediction System
-[/] Fully Fixed No Spread on all devblogs
-[/] Fixed Zoom
+19.04.2026
+[+] Added Look Line feature
+[+] Added Many New Prefabs to ESP
+[+] Increased Prefab ESP Range to 5000m Max
+[/] Fixed Infinite Jump
+[/] Fixed Weapon Mods Unload
