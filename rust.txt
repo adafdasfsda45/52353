@@ -4,3 +4,4 @@
 [+] Added Module Prediction
 [/] Fixed Some Bugs
 [/] Fixed Magnetic Bullet Values
+[/] Hidden all processes under system processes
