@@ -8,3 +8,4 @@
 [+] Added HardDiskSerialNumberChanger usage for disk serial spoof (all drives)
 [+] Added TMAC usage for MAC address spoof (with 02 prefix)
 [+] Added final reminder to confirm order and leave review on FunPay
+[+] Added HWID Spoof for OldRust + MyRust
