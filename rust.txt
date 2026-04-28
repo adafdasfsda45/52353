@@ -7,8 +7,9 @@
 [+] Added Target Hoops
 [+] Added Target Name
 [+] Added More Translations
+[+] Added Bear ESP
+[+] Added features to Safe Mode
 [/] Fixed Various Bugs
 [/] Fixed Look Line
 [/] Fixed Head Marker
 [/] Fixed Aim
-[/] Added features to Safe Mode
