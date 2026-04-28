@@ -1,7 +1,14 @@
-20.04.2026
-[+] Increased Maximum Aim Smoothness to 10000
-[+] Added Visibility Check
-[+] Added Module Prediction
-[/] Fixed Some Bugs
-[/] Fixed Magnetic Bullet Values
-[/] Hidden all processes under system processes
+28.04.2026
+[+] Added Player Trail
+[+] Added Straw Hat
+[+] Added Jump Effect
+[+] Added Megido Capture
+[+] Added Pentagram
+[+] Added Target Hoops
+[+] Added Target Name
+[+] Added More Translations
+[/] Fixed Various Bugs
+[/] Fixed Look Line
+[/] Fixed Head Marker
+[/] Fixed Aim
+[/] Added features to Safe Mode
