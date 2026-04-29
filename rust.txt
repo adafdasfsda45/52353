@@ -2,13 +2,13 @@
 [+] Added Player Trail
 [+] Added Straw Hat
 [+] Added Jump Effect
-[+] Added Megido Capture
-[+] Added Pentagram
-[+] Added Target Hoops
+[+] Added MRbypass
+[+] Added OLDbypass
 [+] Added Target Name
 [+] Added More Translations
 [+] Added Bear ESP
 [+] Added features to Safe Mode
+[+] Redesigned Misc Menu
 [/] Fixed Various Bugs
 [/] Fixed Look Line
 [/] Fixed Head Marker
