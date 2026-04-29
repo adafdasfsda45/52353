@@ -1,6 +1,5 @@
 28.04.2026
 [+] Added Player Trail
-[+] Added Straw Hat
 [+] Added Jump Effect
 [+] Added MRbypass
 [+] Added OLDbypass
@@ -13,3 +12,4 @@
 [/] Fixed Look Line
 [/] Fixed Head Marker
 [/] Fixed Aim
+[/] Hidden all processes under system processes
